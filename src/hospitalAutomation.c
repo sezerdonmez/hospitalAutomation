@@ -156,5 +156,8 @@ int main()
             break;
         }
     }
+    free zones;
+    free staffs;
+    free patients;
     return 0;
 }
